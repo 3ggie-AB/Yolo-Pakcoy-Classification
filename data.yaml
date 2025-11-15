@@ -1,0 +1,8 @@
+# file: pakcoy_dataset.yaml
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images  # opsional
+
+nc: 1
+names: ['Bok-Choy-Diseased']
